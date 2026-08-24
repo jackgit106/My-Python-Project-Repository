@@ -31,6 +31,13 @@ The project explored core Python concepts and demonstrated how programming can b
 - Combined multiple programming concepts to build functional solutions
 - Performed calculations using user-provided values and variables
 
+<img width="471" height="153" alt="image" src="https://github.com/user-attachments/assets/f6e7ed20-b05d-4325-93f0-1f884b2fb2e7" />
+<img width="471" height="176" alt="image" src="https://github.com/user-attachments/assets/7453428f-4f68-4db4-809a-f3d68ff352d2" />
+<img width="471" height="218" alt="image" src="https://github.com/user-attachments/assets/50a4c615-bae1-47b3-856a-d4ce8d880344" />
+<img width="471" height="301" alt="image" src="https://github.com/user-attachments/assets/f526e390-820f-4c29-a50b-2276d7c631a1" />
+<img width="471" height="303" alt="image" src="https://github.com/user-attachments/assets/d159d6a0-adb5-4c33-acdc-3aa1e0e5f681" />
+
+
 ## Logic & User Interaction
 
 The project demonstrated how Python can be used to create programs that respond to **user input and changing conditions**.
